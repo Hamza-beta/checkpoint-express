@@ -1,0 +1,50 @@
+ul{
+ 
+    display: flex;
+    align-items:flex-end;
+    list-style-type: none;
+    background-color:#0d6efd;
+    padding: 15px;
+    margin: 0;
+
+    }
+
+.title{
+    color: gray;
+    text-align:left;
+    margin-left: 50px;
+}
+.navtitle{
+    text-decoration: none;
+    margin-right: 15px;
+    margin-left: 20px;
+    font-size: large;
+    font-weight: bold;
+    color: whitesmoke;
+}
+body{
+    margin: 0;
+}
+.logo{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 25px;
+}
+p{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+.serviceT{
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+
+}
+.serviceB{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
